@@ -191,12 +191,10 @@ The model should be evaluated for data leakage, class imbalance, reliability, an
 - Track experiments and model versions.
 - Monitor prediction quality and data drift.
 
-## License
 
-See the `LICENSE` file for licensing terms.
 
 ## Author
 
-**Your Name**
+**Waliul Islam Nabil**
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/waliulislamnabil-crypto
