@@ -1,0 +1,37 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated models
+models/*.pkl
+models/*.joblib
+
+# Private or large datasets
+data/*.csv
+data/*.xlsx
+data/*.parquet
+
+# Generated reports
+reports/figures/*
+!reports/figures/.gitkeep
